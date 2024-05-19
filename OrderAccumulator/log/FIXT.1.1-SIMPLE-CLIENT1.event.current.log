@@ -1,0 +1,50 @@
+20240518-22:38:15.011 : Created session
+20240518-22:39:09.262 : Created session
+20240518-22:39:59.583 : Created session
+20240518-22:40:02.684 : FIXT.1.1:SIMPLE->CLIENT1 Socket Reader 4032828 accepting session FIXT.1.1:SIMPLE->CLIENT1 from 127.0.0.1:55663
+20240518-22:40:02.684 : FIXT.1.1:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240518-22:40:02.695 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240518-22:40:02.698 : Session reset: Reset requested by counterparty
+20240518-22:40:02.700 : Session reset: ResetOnLogon
+20240518-22:40:02.705 : Received logon
+20240518-22:40:02.709 : Responding to logon request
+20240518-22:40:03.669 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:03.670 : Reject sent for Message: 2 Reason:Unsupported Message Type
+20240518-22:40:04.685 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:04.686 : Reject sent for Message: 3 Reason:Unsupported Message Type
+20240518-22:40:05.701 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:05.701 : Reject sent for Message: 4 Reason:Unsupported Message Type
+20240518-22:40:06.715 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:06.715 : Reject sent for Message: 5 Reason:Unsupported Message Type
+20240518-22:40:07.731 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:07.731 : Reject sent for Message: 6 Reason:Unsupported Message Type
+20240518-22:40:08.746 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:08.746 : Reject sent for Message: 7 Reason:Unsupported Message Type
+20240518-22:40:09.761 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:09.762 : Reject sent for Message: 8 Reason:Unsupported Message Type
+20240518-22:40:10.778 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:10.778 : Reject sent for Message: 9 Reason:Unsupported Message Type
+20240518-22:40:11.794 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:11.794 : Reject sent for Message: 10 Reason:Unsupported Message Type
+20240518-22:40:12.811 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-22:40:12.811 : Reject sent for Message: 11 Reason:Unsupported Message Type
+20240518-22:40:13.285 : Session FIXT.1.1:SIMPLE->CLIENT1 disconnecting: Socket exception (127.0.0.1:55663): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240518-22:40:13.290 : Session reset: ResetOnDisconnect
+20240518-23:18:57.126 : Created session
+20240518-23:19:04.249 : FIXT.1.1:SIMPLE->CLIENT1 Socket Reader 42018967 accepting session FIXT.1.1:SIMPLE->CLIENT1 from 127.0.0.1:56096
+20240518-23:19:04.249 : FIXT.1.1:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240518-23:19:04.261 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240518-23:19:04.263 : Session reset: Reset requested by counterparty
+20240518-23:19:04.265 : Session reset: ResetOnLogon
+20240518-23:19:04.270 : Received logon
+20240518-23:19:04.274 : Responding to logon request
+20240518-23:19:05.237 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-23:19:05.240 : Reject sent for Message: 2 Reason:Unsupported Message Type
+20240518-23:19:06.240 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-23:19:06.240 : Reject sent for Message: 3 Reason:Unsupported Message Type
+20240518-23:19:07.256 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-23:19:07.257 : Reject sent for Message: 4 Reason:Unsupported Message Type
+20240518-23:19:08.273 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20240518-23:19:08.273 : Reject sent for Message: 5 Reason:Unsupported Message Type
+20240518-23:19:08.595 : Session FIXT.1.1:SIMPLE->CLIENT1 disconnecting: Socket exception (127.0.0.1:56096): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+20240518-23:19:08.597 : Session reset: ResetOnDisconnect

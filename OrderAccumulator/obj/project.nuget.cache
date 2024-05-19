@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h28un9Ct0lKie25AB9uCG5FtyStAPi5CTTLU7LmqxbdlxXo/IgJ6LkAQb/E+VIMFQLY3fcXFzaHnhceS+pfrHQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\teste_atg\\OrderAccumulator\\OrderAccumulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeano\\.nuget\\packages\\quickfixn.core\\1.11.2\\quickfixn.core.1.11.2.nupkg.sha512",
+    "C:\\Users\\jeano\\.nuget\\packages\\quickfixn.fix4.4\\1.11.2\\quickfixn.fix4.4.1.11.2.nupkg.sha512"
+  ],
+  "logs": []
+}

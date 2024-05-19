@@ -1,0 +1,33 @@
+20240518-22:23:32.711 : Created session
+20240518-22:23:40.707 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 6044116 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:55502
+20240518-22:23:40.707 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240518-22:23:40.746 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240518-22:23:40.750 : Session reset: Reset requested by counterparty
+20240518-22:23:40.751 : Session reset: ResetOnLogon
+20240518-22:23:40.762 : Received logon
+20240518-22:23:40.771 : Responding to logon request
+20240518-22:30:07.360 : Created session
+20240518-23:38:00.778 : Created session
+20240518-23:38:06.194 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 6044116 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56491
+20240518-23:38:06.195 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240518-23:38:06.245 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240518-23:38:06.248 : Session reset: Reset requested by counterparty
+20240518-23:38:06.251 : Session reset: ResetOnLogon
+20240518-23:38:06.259 : Received logon
+20240518-23:38:06.268 : Responding to logon request
+20240518-23:49:45.582 : Created session
+20240518-23:50:16.319 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 9437034 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56745
+20240518-23:50:16.320 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240518-23:50:16.349 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240518-23:50:16.351 : Session reset: Reset requested by counterparty
+20240518-23:50:16.352 : Session reset: ResetOnLogon
+20240518-23:50:16.358 : Received logon
+20240518-23:50:16.365 : Responding to logon request
+20240518-23:53:14.704 : Created session
+20240518-23:53:21.085 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 45653674 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56980
+20240518-23:53:21.085 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20240518-23:53:21.113 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20240518-23:53:21.115 : Session reset: Reset requested by counterparty
+20240518-23:53:21.116 : Session reset: ResetOnLogon
+20240518-23:53:21.122 : Received logon
+20240518-23:53:21.129 : Responding to logon request
